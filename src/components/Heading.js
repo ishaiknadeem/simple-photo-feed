@@ -16,7 +16,7 @@ export const Heading = () => {
 
   return (
     <Header>
-      <H1><b>Yellow Class Task</b></H1>
+      <H1><b>Shaik Nadeem Project</b></H1>
       <p><b>Using Unsplash Api with infinite-scroll.</b></p>
     </Header>
   )
